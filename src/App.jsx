@@ -1,7 +1,7 @@
 import { Suspense, useState } from "react";
 
 import i18n from "./i18n";
-import LocaleContext from "./localeContext";
+import LocaleContext from "./LocaleContext";
 import Home from "./pages/Home";
 
 import Promotion from "./pages/Promotion";
