@@ -1,0 +1,17 @@
+{
+  "Welcome": "いらっしゃいませ",
+  "Language": "日本語",
+  "Register": "登録",
+  "Full name": "フルネーム",
+  "Age": "年",
+  "Address": "住所",
+  "Email Address": "電子メールアドレス",
+  "Submit": "今すぐサインアップ",
+  "image": "./images/landing-page-japan.jpg",
+  "Store Location": "店の位置",
+  "Physicians name": "医師の名前",
+  "Prc num": "医師免許番号",
+  "Prescription": "処方箋",
+  "Hero Desc": "革新的な <br/> 糖尿病治療 <br/> を世代に向けて",
+  "Flag": "https://flagcdn.com/256x192/jp.png"
+}

@@ -1,0 +1,17 @@
+{
+  "Welcome": "안녕하세요 사용자",
+  "Language": "한국인",
+  "Register": "등록하다",
+  "Full name": "성명",
+  "Age": "나이",
+  "Address": "주소",
+  "Email Address": "이메일 주소",
+  "Submit": "지금 등록하세요",
+  "image": "./images/landing-page-japan.jpg",
+  "Store Location": "가게 위치",
+  "Physicians name": "의사 이름",
+  "Prc num": "의사 면허 번호",
+  "Prescription": "처방",
+  "Hero Desc": "세대를 위한 <br/> 당뇨병 관리 <br/> 혁신",
+  "Flag": "https://flagcdn.com/256x192/kr.png"
+}
